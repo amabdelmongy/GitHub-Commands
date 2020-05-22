@@ -23,11 +23,11 @@ All common github commands
 `git push -u origin feature_branch_name`
 
 * Reset file to Master changes  
-`git checkout Master  "your-file-name.js"`
+`git checkout master  "your-file-name.js"`
 
 * Rename branch  
-`git push origin :old-name-of-branch-on-github`
-`git branch -m old-name-of-branch-on-github new-name-for-branch-you-want`
+`git push origin :old-name-of-branch-on-github`  
+`git branch -m old-name-of-branch-on-github new-name-for-branch-you-want`  
 `git push origin new-name-for-branch-you-want`
 
 * The command to list all branches in local and remote repositories is  
