@@ -8,7 +8,7 @@ All common github commands
 `git branch`
 
 * Create new branch  
-`git checkout -b your-branch-Name`
+`git checkout -b your-branch-name`
 
 * Stage the file for commit to your local repository  
 `git add .`
@@ -17,12 +17,12 @@ All common github commands
 `git commit -m "your commit message"`
 
 * Push to active branch  
-'git push'
+`git push`
 
 * Push your branch to the remote repository  
 `git push -u origin feature_branch_name`
 
-* Rest file to Master changes  
+* Reset file to Master changes  
 `git checkout Master  "your-file-name.js"`
 
 * Rename branch  
