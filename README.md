@@ -19,7 +19,7 @@ All common github commands
 * Push to active branch  
 `git push`
 
-* Push at new branch 
+* Push at new branch   
 `git push --set-upstream origin your-branch-name`
 
 * Push your branch to the remote repository  
