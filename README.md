@@ -19,6 +19,9 @@ All common github commands
 * Push to active branch  
 `git push`
 
+* Push at new branch 
+`git push --set-upstream origin your-branch-name`
+
 * Push your branch to the remote repository  
 `git push -u origin feature_branch_name`
 
@@ -38,3 +41,4 @@ All common github commands
 
 * Status Active branch and commit status  
 `git status`
+
