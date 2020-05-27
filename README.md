@@ -42,3 +42,6 @@ All common github commands
 * Status Active branch and commit status  
 `git status`
 
+* Add all files to a commit except a single file  
+`git add -u`  
+`git reset -- your-file-path`
