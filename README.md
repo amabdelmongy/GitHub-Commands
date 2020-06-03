@@ -45,3 +45,8 @@ All common github commands
 * Add all files to a commit except a single file  
 `git add -u`  
 `git reset -- your-file-path`
+
+* Git merge master into the branch  
+`git checkout your-branch-name`  
+`git merge master`  
+
